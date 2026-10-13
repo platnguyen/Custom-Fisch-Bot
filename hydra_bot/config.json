@@ -183,7 +183,7 @@
     "fish_yolo_damping_fwd": 2.3,
     "fish_yolo_damping_rev": 0.7,
     "discord_enabled": true,
-    "webhook_url": "https://discord.com/api/webhooks/1427090182380847196/kddZHnRm2GWgSThQ1JCdyM08F1DKs5dK_HeDBIE8Joe7o60FuvCA0vfj6AzmWzY2FEwA",
+    "webhook_url":"",
     "discord_message_style": "Screenshot",
     "loops_screenshot": 10,
     "loops_text": 10,
