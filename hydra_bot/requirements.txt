@@ -1,0 +1,11 @@
+# Core (cross-platform)
+numpy>=1.26
+opencv-python>=4.9
+mss>=9.0
+
+# Windows-only runtime deps (the bot targets Windows/Roblox, like the original)
+pywin32>=306 ; platform_system == "Windows"
+dxcam>=0.0.5 ; platform_system == "Windows"
+
+# Optional: only needed for the YOLO fish-track style
+ultralytics>=8.1
